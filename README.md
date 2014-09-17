@@ -8,8 +8,8 @@ Date:           2014-07-19 - 2014-07-30
 I've worked with a Bruker Elexsys E580 Electron Spin Resonance machine for a 
 few years now on a daily basis and have acquired thousands of data sets. Besides 
 being quite 'crashy,' the control software, Xepr, does not allow the user to 
-perform a batch conversion of data sets to ASCII format for analysis in external 
-software programs. Doing this one file at a time regularly added 15-20 min. to 
+perform a batch conversion of data sets to ASCII format for external analysis. 
+Doing this one file at a time regularly added 15-20 min. to 
 each measurement day. This Python script, and associated IPython Notebook, are 
 meant to avoid this particular frustration and keep this chore down to about 20 
 seconds.
